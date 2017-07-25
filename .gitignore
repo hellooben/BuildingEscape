@@ -1,9 +1,11 @@
 ########################
 #Unreal Generated Files#
 ########################
-*/Saved
-*/Intermediate
-*/Binaries
-*/Saved
-*/DerivedDataCache
+Saved
+Intermediate
+Binaries
+DerivedDataCache
 BuildingEscape/Content/StarterContent/
+
+**/xcuserdata
+contents.xcworkspacedata
